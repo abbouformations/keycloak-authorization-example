@@ -1,0 +1,8 @@
+{
+  "realm": "demo-realm",
+  "auth-server-url": "http://localhost:8080",
+  "resource": "tp-keycloak-authorization",
+  "credentials": {
+    "secret": "60kkuIY0VUvogdk5IQlgSudw1je9JdkU"
+  }
+}
